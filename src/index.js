@@ -140,5 +140,5 @@ class BraviaDiscovery extends EventEmitter {
 
 let single = new BraviaDiscovery();
 export {
-    single as default
+    single as default,BraviaTv
 }
